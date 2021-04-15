@@ -11,9 +11,8 @@ function confirm() {
   }
 }
 
-console.log('abc');
 
-``// Bài 2 //
+// Bài 2 //
 
 /*
 - Khái niệm OOP: (Object Oriented Programming) 
