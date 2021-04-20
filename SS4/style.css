@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    display: grid;
+}
+
+.film-container {
+    width: 250px;
+    background-color: #1b1717;
+    margin-bottom: 20px;
+}
+
+.film-image {
+    background-image: url('http://dummyimage.com/250x300.png/5fa2dd/ffffffs');
+    height: 300px;
+}
+
+.film-info {
+    padding: 5px 5px;
+    
+}
+
+.film-type {
+    background-color: #fb3640;
+    height: 30px;
+    width: 140px;
+    padding: 5px;
+}
+
+.film-originalname {
+    color: #8fd6e1;
+    font-size: 20px;
+}
+
+.film-name {
+    color: #ffffff;
+}
+
+.film-duration {
+    color: #cccccc;
+    margin-top: 8px;
+}
+
+
+ 
